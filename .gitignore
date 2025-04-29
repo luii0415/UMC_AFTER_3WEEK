@@ -1,0 +1,38 @@
+# folder
+node_modules/
+UMC-MISSION-AFTER4/
+HW-GUIDE/
+
+# 환경변수 파일
+.env
+.env.* 
+# 하위 폴더 포함
+**/.env
+**/.env.*
+
+
+# 빌드 결과물 (Vite, Next.js 등)
+dist/
+build/
+
+# 캐시파일 
+.cache/
+.vite/
+
+# macOS
+.DS_Store
+
+# 로그 파일 
+*.log
+
+# IDE 설정파일 
+.vscode/
+.idea/
+
+# 기타 txt 파일
+GUIDE-MEMO.txt
+hw.txt
+login-signup-hw.txt
+mypagecheing.txt
+signup.txt
+vite-start(guide).txt
