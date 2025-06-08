@@ -20,3 +20,7 @@
 8주차 (8WEEK)
 
 - 미션 N : UMC-MISSION-W8-N 으로 표기하여 제출합니다.
+
+9주차 (9WEEK)
+
+- 미션 N : UMC-MISSION-W9-N 으로 표기하여 제출합니다.
